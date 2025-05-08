@@ -4,5 +4,6 @@ seaborn
 scikit-learn
 xgboost
 Flask
-cataboost
+catboost
+dill
 # -e .
